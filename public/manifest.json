@@ -1,0 +1,10 @@
+{
+  "name": "KidsTube - Veilig Kijken",
+  "short_name": "KidsTube",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8E7",
+  "theme_color": "#FF6B6B",
+  "orientation": "any",
+  "icons": []
+}
